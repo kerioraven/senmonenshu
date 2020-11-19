@@ -2,3 +2,4 @@ firstline
 secondline
 thirdline
 forthline
+lastline
